@@ -1,8 +1,5 @@
 # Research-Publications
 A collection of my published scientific research articles and academic publications.
-# Research Publications
-
-A collection of my published scientific research articles in molecular biology, bioinformatics, and biomedical sciences.
 
 ## Published Journal Articles
 
